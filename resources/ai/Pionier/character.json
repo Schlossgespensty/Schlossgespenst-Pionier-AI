@@ -51,7 +51,7 @@
     "MaxPitchrigs": 0,
     "MaxFarms": 16,
     "BuildInterval": 3,
-    "ResourceRebuildDelay": 0,
+    "ResourceRebuildDelay": 25,
     "MaxFood": 70,
     "MinimumApples": 10,
     "MinimumCheese": 0,
@@ -143,8 +143,8 @@
     "HarassingSiegeEngine6": "Catapult",
     "HarassingSiegeEngine7": "FireBallista",
     "HarassingSiegeEngine8": "Catapult",
-    "HarassingSiegeEnginesMax": 8,
-    "RaidRetargetDelay": 10,
+    "HarassingSiegeEnginesMax": 6,
+    "RaidRetargetDelay": 20,
     "AttForceBase": 28,
     "AttForceRandom": 0,
     "AttForceSupportAllyThreshold": 0,
@@ -190,4 +190,5 @@
     "AttMainGroupsCount": 2,
     "TargetChoice": "Player"
   }
+
 }
