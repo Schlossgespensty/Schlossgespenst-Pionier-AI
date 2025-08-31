@@ -11,12 +11,10 @@
     },
     "crusader": {
       "Spearman": 40,
-      "EuropArcher": 40,
-      "Slinger": 40
+      "EuropArcher": 40
     },
     "deathmatch": {
-      "Slinger": 6,
-      "EuropArcher": 6
+      "EuropArcher": 12
     }
   },
   "aic": {
@@ -192,3 +190,4 @@
   }
 
 }
+
