@@ -30,7 +30,7 @@
     "LowestPopularity": 9700,
     "HighestPopularity": 9900,
     "TaxesMin": 3,
-    "TaxesMax": 10,
+    "TaxesMax": 8,
     "Unknown011": 15,
     "Farm1": "AppleFarm",
     "Farm2": "AppleFarm",
@@ -190,4 +190,5 @@
     "AttMainGroupsCount": 2,
     "TargetChoice": "Player"
   }
+
 }
