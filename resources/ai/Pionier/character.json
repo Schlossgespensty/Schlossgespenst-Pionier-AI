@@ -27,8 +27,8 @@
     "CriticalPopularity": 8500,
     "LowestPopularity": 9700,
     "HighestPopularity": 9900,
-    "TaxesMin": 1,
-    "TaxesMax": 8,
+    "TaxesMin": 2,
+    "TaxesMax": 10,
     "Unknown011": 15,
     "Farm1": "AppleFarm",
     "Farm2": "AppleFarm",
@@ -190,5 +190,6 @@
   }
 
 }
+
 
 
