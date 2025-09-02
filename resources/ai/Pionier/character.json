@@ -168,7 +168,7 @@
     "AttUnitVanguardMax": 50,
     "AttMaxAssassins": 0,
     "AttMaxLaddermen": 0,
-    "AttMaxTunnelers": 0,
+    "AttMaxTunnelers": 1,
     "AttUnitPatrol": "EuropArcher",
     "AttUnitPatrolMax": 50,
     "AttUnitPatrolGroupsCount": 1,
@@ -186,7 +186,7 @@
     "AttUnitMain4": "None",
     "AttMaxDefault": 0,
     "AttMainGroupsCount": 2,
-    "TargetChoice": "Player"
+    "TargetChoice": "Balanced"
   }
 
 }
